@@ -34,22 +34,4 @@
     .st1 {
         fill: #fff
     }
-    
-    #click {
-        position: absolute;
-        left: 250px;
-        top: 210px;
-    }
-    
-    .enter {
-        opacity: 0;
-        left: -600px;
-        transform: scale(2.5);
-    }
-    
-    #stage:hover .enter {
-        opacity: 1;
-        animation: slideOutRight 10s;
-        position: absolute;
-        top: 40px;
-    }
+   
