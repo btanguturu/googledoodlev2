@@ -1,8 +1,9 @@
 // Store SVGS
 var cpt = [
-    'images/Georgiou.svg',
-    'images/Kirk.svg',
-    'images/Picard.svg',
+    'images/Georgiou.png',
+    'images/Kirk.png',
+    'images/Picard.png',
+    'images/Janeway.png'
 ];
 
 // Random Number Generator
